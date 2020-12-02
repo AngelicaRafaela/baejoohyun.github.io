@@ -1,2 +1,2 @@
-# baejoohyun.github.io
+# http://baejoohyun.github.io
 My personal website
